@@ -1,0 +1,11 @@
+Add your real MP4 videos in this folder.
+Suggested names:
+brand-film.mp4
+shirt-fit.mp4
+tshirt-styling.mp4
+oversized-streetwear.mp4
+fabric-closeup.mp4
+
+Product-specific examples:
+midnight-oversized.mp4
+ivory-premium-shirt.mp4
