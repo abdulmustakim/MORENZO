@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1150">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop stop-color="#2a221a" offset="0"/><stop stop-color="#090909" offset=".55"/><stop stop-color="#d8c6a4" offset="1"/>
+        </linearGradient>
+        <radialGradient id="spot" cx=".5" cy=".25" r=".75">
+          <stop offset="0" stop-color="#f8ead2" stop-opacity=".26"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+        </radialGradient>
+      </defs>
+      <rect width="900" height="1150" rx="44" fill="url(#g)"/>
+      <rect width="900" height="1150" rx="44" fill="url(#spot)"/>
+      <g opacity=".12" stroke="#f8ead2">
+        <path d="M90 100 H810 M90 1050 H810 M110 80 V1080 M790 80 V1080"/>
+        <path d="M450 140 V980"/>
+      </g>
+      <circle cx="450" cy="315" r="104" fill="#f5ead8" opacity=".18"/>
+      <path d="M305 415 Q450 330 595 415 L652 766 Q462 886 248 766 Z" fill="#f5ead8" opacity=".18"/>
+      <path d="M340 435 L450 490 L560 435 L620 790 Q455 878 280 790 Z" fill="#101010" opacity=".78"/>
+      <text x="70" y="92" fill="#f5ead8" font-family="Arial, sans-serif" font-size="32" letter-spacing="8">MARENZO</text>
+      <text x="70" y="1075" fill="#f5ead8" font-family="Arial, sans-serif" font-size="26" letter-spacing="4">FABRIC CLOSE-UP</text>
+      <text x="70" y="1118" fill="#f5ead8" opacity=".68" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">MAKE TODAY LEGENDARY</text>
+    </svg>

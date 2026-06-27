@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 720">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#0c0d10"/>
+          <stop offset=".52" stop-color="#101010"/>
+          <stop offset="1" stop-color="#341014"/>
+        </linearGradient>
+        <radialGradient id="r" cx=".48" cy=".18" r=".77">
+          <stop offset="0" stop-color="#f7e7c7" stop-opacity=".26"/>
+          <stop offset="1" stop-color="#000" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="shadow"><feDropShadow dx="0" dy="36" stdDeviation="27" flood-color="#000" flood-opacity=".6"/></filter>
+      </defs>
+      <rect width="520" height="720" rx="34" fill="url(#g)"/>
+      <rect width="520" height="720" rx="34" fill="url(#r)"/>
+      <g opacity=".14">
+        <path d="M42 95 H478 M42 628 H478" stroke="#f4ead9"/>
+        <path d="M70 50 V670 M450 50 V670" stroke="#f4ead9"/>
+      </g>
+      <g filter="url(#shadow)">
+        <path d="M190 116 L260 151 L330 116 L439 198 L388 280 L365 250 L365 612 L155 612 L155 250 L132 280 L81 198 Z" fill="#6b171e" stroke="#f4ead9" stroke-width="3"/>
+        <path d="M228 124 Q260 179 292 124" fill="none" stroke="#101010" stroke-width="16" stroke-linecap="round"/>
+        <path d="M155 522 L365 522" stroke="#f4ead9" stroke-width="3" opacity=".22"/>
+        </g>
+      <text x="42" y="58" fill="#f4ead9" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">MARENZO</text>
+      <text x="42" y="675" fill="#f4ead9" opacity=".8" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">MIDNIGHT OVERSIZED</text>
+    </svg>
