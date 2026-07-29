@@ -137,7 +137,7 @@ const MARENZO_PRODUCTS = [
     category: "Premium Shirts",
     price: "₹1,199",
     rating: "4.7",
-    image: "assets/images/5j.jpeg",
+    image: "assets/images/5j.jpg",
     videoPoster: "assets/images/poster-7.svg",
     fabric: "Fluid cotton-viscose blend",
     fit: "Relaxed premium fit",
