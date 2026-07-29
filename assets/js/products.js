@@ -5,7 +5,7 @@ const MARENZO_PRODUCTS = [
     category: "Oversized T-Shirts",
     price: "₹799",
     rating: "4.8",
-    image: "assets/images/yellogreents.jpeg",
+    image: "assets/images/yellobluets.jpeg",
     videoPoster: "assets/images/poster-2.svg",
     fabric: "240 GSM premium cotton blend",
     fit: "Relaxed oversized fit",
